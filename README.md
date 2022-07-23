@@ -1,2 +1,2 @@
 # pyscript  
-The files present here are for writing blog out it.
+The files present here are example files of pyscript.
